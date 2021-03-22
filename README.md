@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**andreyglauzer/andreyglauzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Threat Intelligence Analyst
 
-Here are some ideas to get you started:
+Currently Working with Threat Intelligence Analyst, using heavily:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reverse Engineer(IDA-Pro, OllyDbg, x64(x32)dbg, Ghidra);
+- Tracking Malware(AZORult - Baldr - Predator - MIRAI - ZeuS - Pony - Loki - Ransomware);
+- MITRE ATT&CK;
+- MISP;
+- The Hive/Cortex;
+- Elastic;
+- A lot of Python.
+
+Telegram: https://t.me/andreyglauzer
+
+Linkedin: https://www.linkedin.com/in/andreyglauzer
+
+
+If any project helped you, buy me a beer 🍻: bc1qq7yqeaz7g5xgy3xgnkuy3440xqr6yhsx68tg0a
