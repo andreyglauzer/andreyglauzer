@@ -16,5 +16,3 @@ Telegram: https://t.me/andreyglauzer
 
 Linkedin: https://www.linkedin.com/in/andreyglauzer
 
-
-If any project helped you, buy me a beer 🍻: bc1qq7yqeaz7g5xgy3xgnkuy3440xqr6yhsx68tg0a
